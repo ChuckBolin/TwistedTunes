@@ -1,0 +1,5 @@
+texture, 100, splash.png, intro
+texture, 101, texture3.png, texture
+//editor
+sprite, 2000, 100, 0, 0, 1024, 768, 1, 0, 255, 1, 1, 0, intro splash
+sprite, 2001, 101, 0, 0, 1024, 768, 1, 0, 255, 1, 1, 0, main background

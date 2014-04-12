@@ -1,0 +1,5 @@
+//tiles.dat
+//defines tiles
+
+//id, spriteID, spriteID2, rating, yOffset, groupID, name
+0,  101, 101, 1, 0, 0, Ground

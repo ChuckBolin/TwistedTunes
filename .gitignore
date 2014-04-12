@@ -1,0 +1,7 @@
+#standard .gitignore file
+
+debug/
+*.xls
+
+
+

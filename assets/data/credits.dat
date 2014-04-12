@@ -1,0 +1,34 @@
+//Scrolling credits at end of program
+//text 0 - 13
+//text, hor pos, font, red, green, blue, string
+//sprite, hor pos, sprite ID
+backcolor, 0, 0, 0//150, 160, 130
+vspace
+vspace
+/vspace
+text, -1, 12, 255, 255, 0, "Twisted Tunes"
+vspace
+vspace
+text, -1, 12, 255, 255, 255, "Designed and Developed by Chuck Bolin"
+vspace
+vspace
+text, -1, 12, 0, 255, 0, "Game Institute's Game Challenge #17, September 6, 2010"
+vspace
+vspace
+text, -1, 12, 155, 155, 155, "Special Thanks to Patrick Henry and his game ideas and suggestions."
+vspace
+vspace
+text, -1, 12, 155, 155, 155, "Special Thanks again to my wife Grace for allowing me time to program this game."
+vspace
+vspace
+text, -1, 12, 255, 255, 255, "Awesome backgrounds...thanks to Grunge Music at"
+vspace
+text, -1, 12, 0, 255, 255, "www.flickr.com/photos/bittbox/sets/72157618341823845/detail/"
+vspace
+vspace
+vspace
+vspace
+vspace
+scrollspeed, 2
+scrolltime, 0.025
+timer, 18

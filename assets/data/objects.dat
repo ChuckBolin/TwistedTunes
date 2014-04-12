@@ -1,0 +1,57 @@
+//objects.dat
+
+//**************************************************************************************
+//id, unique ID of object
+//groupID, groupID in which this object belongs
+//rating, minimum rating level in which it may be used, default = 1
+//footprint, 0=circle, 1=rectangle
+//parameter1, if footprint=circle, parameter1 = radius, if footprint = rect, parameter1 = E-W size
+//parameter2, if footprint=rectangle, parameter2 = 0 (not used), if footprint = rect, parameter2 = N-S size
+//layer, 0=ground level, 1= taller object (tree, rock)...affects rendering order
+//special code, 0 through...x, set aside by programmer
+//number of sprite pairs to follow...
+//                 -object Update(...) function dictates application
+//                 -1 no states (invisible object)
+//number of sounds -object Update(...) function dictates application
+//                 -1 no sounds
+//state0 spriteID (left isometric view)
+//state0 spriteID2 (right isometric view)
+//state1 spriteID (left isometric view)
+//state1 spriteID2 (right isometric view)
+//state2 spriteID (left isometric view)
+//state2 spriteID2 (right isometric view)
+//...
+//sound0
+//sound1
+//...
+//xoffset in pixels to center in tile
+//yoffset in pixels to center in tile
+//name of object
+//**************************************************************************************
+0, 1, 1, 1, 120, 85, 1, 0, 1, 0, 600, 600, 0, -54, pillar_of_Smoke
+1, 1, 1, 1, 120, 85, 1, 0, 1, 0, 603, 603, 0, -54, pillar_of_Fire
+
+5, 0, 1, 1, 120, 85, 0, 0, 1, 0, 604, 604, 0, 18, Grass
+6, 0, 1, 1, 120, 85, 0, 0, 1, 0, 605, 605, 0, 18, Wheat 
+
+10, 0, 1, 1, 120, 85, 1, 0, 1, 0, 601, 601, 5, -4, Building_1
+
+20, 0, 1, 1, 120, 85, 1, 0, 1, 0, 602, 602, 0, 5, Blue_Tent_1
+
+30, 0, 1, 1, 120, 85, 1, 0, 1, 0, 606, 606, 0, 0, Column_1
+31, 0, 1, 1, 120, 85, 1, 0, 1, 0, 607, 607, 5, -15, Column_2
+
+50, 2, 1, 1, 120, 85, 0, 0, 1, 0, 700, 700, 0, 52, Waves_BACK_LEFT
+51, 2, 1, 1, 120, 85, 0, 0, 1, 0, 701, 701, 0, 52, Waves_BACK_RIGHT
+52, 2, 1, 1, 120, 85, 0, 0, 1, 0, 702, 702, 0, 52, Waves_BACK_BOTH
+53, 2, 1, 1, 120, 85, 1, 0, 1, 0, 703, 703, 0, 52, Waves_FRONT_LEFT
+54, 2, 1, 1, 120, 85, 1, 0, 1, 0, 704, 704, 0, 52, Waves_FRONT_RIGHT
+55, 2, 1, 1, 120, 85, 1, 0, 1, 0, 705, 705, 0, 52, Waves_FRONT_BOTH
+
+56, 3, 1, 1, 120, 85, 1, 0, 1, 0, 706, 706, 0, -15, Rolling_Rock_NE
+
+60, 3, 1, 1, 120, 85, 1, 0, 1, 0, 707, 707, 0, 15, Breaking_Rock
+
+65, 3, 1, 1, 120, 85, 1, 0, 1, 0, 708, 708, 2, 55, Gorge_Animation
+
+

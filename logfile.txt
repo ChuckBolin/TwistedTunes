@@ -1,0 +1,2915 @@
+ 
+***************************************
+Program Start
+Date,09.06.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,09.06.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,09.06.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Info: IDirect3D9::GetAdapterModeCount() Count. ,45
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,73
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,576
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,576
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,56
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,848
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,848
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,800
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,62
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1400
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1600
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1200
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Warning: Display mode not supported.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+FPS,205
+FPS,205
+FPS,206
+Audio is valid!,assets\data\sound2.dat
+table size,24
+Audio file(0, hotblooded_d.mp3)
+Audio file(1, hotblooded_c.mp3)
+Audio file(2, hotblooded_b.mp3)
+Audio file(3, hotblooded_a.mp3)
+Audio file(4, hipsdontlie_d.mp3)
+Audio file(5, hipsdontlie_c.mp3)
+Audio file(6, hipsdontlie_b.mp3)
+Audio file(7, hipsdontlie_a.mp3)
+Audio file(8, highenough_d.mp3)
+Audio file(9, highenough_c.mp3)
+Audio file(10, highenough_b.mp3)
+Audio file(11, highenough_a.mp3)
+Audio file(12, heartofglass_d.mp3)
+Audio file(13, heartofglass_c.mp3)
+Audio file(14, heartofglass_b.mp3)
+Audio file(15, heartofglass_a.mp3)
+Audio file(16, heartbreaker_d.mp3)
+Audio file(17, heartbreaker_c.mp3)
+Audio file(18, heartbreaker_b.mp3)
+Audio file(19, heartbreaker_a.mp3)
+Audio file(20, happyday_d.mp3)
+Audio file(21, happyday_c.mp3)
+Audio file(22, happyday_b.mp3)
+Audio file(23, happyday_a.mp3)
+Successfully added noise source,16
+Successfully added noise source,17
+Successfully added noise source,18
+Successfully added noise source,19
+Successfully added noise source,20
+Successfully added noise source,21
+Successfully added noise source,22
+Successfully added noise source,23
+Successfully added noise source,24
+Successfully added noise source,25
+Successfully added noise source,26
+Successfully added noise source,27
+Successfully added noise source,28
+Successfully added noise source,29
+Successfully added noise source,30
+Successfully added noise source,31
+Successfully added noise source,32
+Successfully added noise source,33
+Successfully added noise source,34
+Successfully added noise source,35
+Successfully added noise source,36
+Successfully added noise source,37
+Successfully added noise source,38
+Successfully added noise source,39
+FPS,204
+FPS,205
+FPS,205
+FPS,205
+FPS,207
+Audio is valid!,assets\data\sound3.dat
+table size,32
+Audio file(0, gooddieyoung_d.mp3)
+Audio file(1, gooddieyoung_c.mp3)
+Audio file(2, gooddieyoung_b.mp3)
+Audio file(3, gooddieyoung_a.mp3)
+Audio file(4, foxontherun_d.mp3)
+Audio file(5, foxontherun_c.mp3)
+Audio file(6, foxontherun_b.mp3)
+Audio file(7, foxontherun_a.mp3)
+Audio file(8, fortuna_d.mp3)
+Audio file(9, fortuna_c.mp3)
+Audio file(10, fortuna_b.mp3)
+Audio file(11, fortuna_a.mp3)
+Audio file(12, feellikeawoman_d.mp3)
+Audio file(13, feellikeawoman_c.mp3)
+Audio file(14, feellikeawoman_b.mp3)
+Audio file(15, feellikeawoman_a.mp3)
+Audio file(16, fatbottom_d.mp3)
+Audio file(17, fatbottom_c.mp3)
+Audio file(18, fatbottom_b.mp3)
+Audio file(19, fatbottom_a.mp3)
+Audio file(20, evilwoman_d.mp3)
+Audio file(21, evilwoman_c.mp3)
+Audio file(22, evilwoman_b.mp3)
+Audio file(23, evilwoman_a.mp3)
+Audio file(24, elvira_d.mp3)
+Audio file(25, elvira_c.mp3)
+Audio file(26, elvira_b.mp3)
+Audio file(27, elvira_a.mp3)
+Audio file(28, ebay_d.mp3)
+Audio file(29, ebay_c.mp3)
+Audio file(30, ebay_b.mp3)
+Audio file(31, ebay_a.mp3)
+Successfully added noise source,40
+Successfully added noise source,41
+Successfully added noise source,42
+Successfully added noise source,43
+Successfully added noise source,44
+Successfully added noise source,45
+Successfully added noise source,46
+Successfully added noise source,47
+Successfully added noise source,48
+Successfully added noise source,49
+Successfully added noise source,50
+Successfully added noise source,51
+Successfully added noise source,52
+Successfully added noise source,53
+Successfully added noise source,54
+Successfully added noise source,55
+Successfully added noise source,56
+Successfully added noise source,57
+Successfully added noise source,58
+Successfully added noise source,59
+Successfully added noise source,60
+Successfully added noise source,61
+Successfully added noise source,62
+Successfully added noise source,63
+Successfully added noise source,64
+Successfully added noise source,65
+Successfully added noise source,66
+Successfully added noise source,67
+Successfully added noise source,68
+Successfully added noise source,69
+Successfully added noise source,70
+Successfully added noise source,71
+FPS,203
+FPS,204
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,09.06.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,09.06.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Info: IDirect3D9::GetAdapterModeCount() Count. ,45
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,73
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,576
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,576
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,56
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,848
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,848
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,800
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,62
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1400
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1600
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1200
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Warning: Display mode not supported.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,4
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Audio is valid!,assets\data\sound2.dat
+table size,4
+Audio file(0, jailhouserock_d.mp3)
+Audio file(1, jailhouserock_c.mp3)
+Audio file(2, jailhouserock_b.mp3)
+Audio file(3, jailhouserock_a.mp3)
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Audio is valid!,assets\data\sound3.dat
+table size,4
+Audio file(0, immigrantsong_d.mp3)
+Audio file(1, immigrantsong_c.mp3)
+Audio file(2, immigrantsong_b.mp3)
+Audio file(3, immigrantsong_a.mp3)
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+FPS,207
+Audio is valid!,assets\data\sound4.dat
+table size,4
+Audio file(0, hurricane_d.mp3)
+Audio file(1, hurricane_c.mp3)
+Audio file(2, hurricane_b.mp3)
+Audio file(3, hurricane_a.mp3)
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+Audio is valid!,assets\data\sound5.dat
+table size,4
+Audio file(0, hotblooded_d.mp3)
+Audio file(1, hotblooded_c.mp3)
+Audio file(2, hotblooded_b.mp3)
+Audio file(3, hotblooded_a.mp3)
+Successfully added noise source,16
+Successfully added noise source,17
+Successfully added noise source,18
+Successfully added noise source,19
+FPS,359
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,09.06.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,4
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,09.09.2010
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+FPS,157
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,04.30.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Info: IDirect3D9::GetAdapterModeCount() Count. ,33
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,73
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,576
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,576
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,56
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,848
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,848
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,800
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Warning: Display mode not supported.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+FPS,201
+FPS,202
+FPS,202
+Audio is valid!,assets\data\sound2.dat
+table size,24
+Audio file(0, hotblooded_d.mp3)
+Audio file(1, hotblooded_c.mp3)
+Audio file(2, hotblooded_b.mp3)
+Audio file(3, hotblooded_a.mp3)
+Audio file(4, hipsdontlie_d.mp3)
+Audio file(5, hipsdontlie_c.mp3)
+Audio file(6, hipsdontlie_b.mp3)
+Audio file(7, hipsdontlie_a.mp3)
+Audio file(8, highenough_d.mp3)
+Audio file(9, highenough_c.mp3)
+Audio file(10, highenough_b.mp3)
+Audio file(11, highenough_a.mp3)
+Audio file(12, heartofglass_d.mp3)
+Audio file(13, heartofglass_c.mp3)
+Audio file(14, heartofglass_b.mp3)
+Audio file(15, heartofglass_a.mp3)
+Audio file(16, heartbreaker_d.mp3)
+Audio file(17, heartbreaker_c.mp3)
+Audio file(18, heartbreaker_b.mp3)
+Audio file(19, heartbreaker_a.mp3)
+Audio file(20, happyday_d.mp3)
+Audio file(21, happyday_c.mp3)
+Audio file(22, happyday_b.mp3)
+Audio file(23, happyday_a.mp3)
+Successfully added noise source,16
+Successfully added noise source,17
+Successfully added noise source,18
+Successfully added noise source,19
+Successfully added noise source,20
+Successfully added noise source,21
+Successfully added noise source,22
+Successfully added noise source,23
+Successfully added noise source,24
+Successfully added noise source,25
+Successfully added noise source,26
+Successfully added noise source,27
+Successfully added noise source,28
+Successfully added noise source,29
+Successfully added noise source,30
+Successfully added noise source,31
+Successfully added noise source,32
+Successfully added noise source,33
+Successfully added noise source,34
+Successfully added noise source,35
+Successfully added noise source,36
+Successfully added noise source,37
+Successfully added noise source,38
+Successfully added noise source,39
+FPS,200
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,05.19.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Info: IDirect3D9::GetAdapterModeCount() Count. ,32
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,29
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,720
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,30
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,800
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1366
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1400
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1600
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1920
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1080
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,23
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1920
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1080
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,24
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1920
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1080
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1920
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1080
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,29
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1920
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1080
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1920
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1080
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,30
+Warning: Display mode not supported.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+FPS,360
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,05.19.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,10.23.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+FPS,274
+FPS,269
+FPS,269
+FPS,270
+FPS,269
+FPS,270
+Audio is valid!,assets\data\sound2.dat
+table size,24
+Audio file(0, hotblooded_d.mp3)
+Audio file(1, hotblooded_c.mp3)
+Audio file(2, hotblooded_b.mp3)
+Audio file(3, hotblooded_a.mp3)
+Audio file(4, hipsdontlie_d.mp3)
+Audio file(5, hipsdontlie_c.mp3)
+Audio file(6, hipsdontlie_b.mp3)
+Audio file(7, hipsdontlie_a.mp3)
+Audio file(8, highenough_d.mp3)
+Audio file(9, highenough_c.mp3)
+Audio file(10, highenough_b.mp3)
+Audio file(11, highenough_a.mp3)
+Audio file(12, heartofglass_d.mp3)
+Audio file(13, heartofglass_c.mp3)
+Audio file(14, heartofglass_b.mp3)
+Audio file(15, heartofglass_a.mp3)
+Audio file(16, heartbreaker_d.mp3)
+Audio file(17, heartbreaker_c.mp3)
+Audio file(18, heartbreaker_b.mp3)
+Audio file(19, heartbreaker_a.mp3)
+Audio file(20, happyday_d.mp3)
+Audio file(21, happyday_c.mp3)
+Audio file(22, happyday_b.mp3)
+Audio file(23, happyday_a.mp3)
+Successfully added noise source,16
+Successfully added noise source,17
+Successfully added noise source,18
+Successfully added noise source,19
+Successfully added noise source,20
+Successfully added noise source,21
+Successfully added noise source,22
+Successfully added noise source,23
+Successfully added noise source,24
+Successfully added noise source,25
+Successfully added noise source,26
+Successfully added noise source,27
+Successfully added noise source,28
+Successfully added noise source,29
+Successfully added noise source,30
+Successfully added noise source,31
+Successfully added noise source,32
+Successfully added noise source,33
+Successfully added noise source,34
+Successfully added noise source,35
+Successfully added noise source,36
+Successfully added noise source,37
+Successfully added noise source,38
+Successfully added noise source,39
+FPS,267
+FPS,268
+FPS,271
+FPS,270
+FPS,271
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,11.24.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Info: IDirect3D9::GetAdapterModeCount() Count. ,40
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,320
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,200
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,320
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,240
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,400
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,300
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,512
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,384
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,400
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,73
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,656
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,496
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,800
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,800
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1366
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1400
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1400
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1600
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1600
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Warning: Display mode not supported.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Exited main loop
+Cleanup
+ 
+***************************************
+Program Start
+Date,11.24.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+FPS,481
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+FPS,276
+FPS,275
+FPS,276
+FPS,276
+FPS,276
+FPS,276
+FPS,277
+Audio is valid!,assets\data\sound2.dat
+table size,24
+Audio file(0, hotblooded_d.mp3)
+Audio file(1, hotblooded_c.mp3)
+Audio file(2, hotblooded_b.mp3)
+Audio file(3, hotblooded_a.mp3)
+Audio file(4, hipsdontlie_d.mp3)
+Audio file(5, hipsdontlie_c.mp3)
+Audio file(6, hipsdontlie_b.mp3)
+Audio file(7, hipsdontlie_a.mp3)
+Audio file(8, highenough_d.mp3)
+Audio file(9, highenough_c.mp3)
+Audio file(10, highenough_b.mp3)
+Audio file(11, highenough_a.mp3)
+Audio file(12, heartofglass_d.mp3)
+Audio file(13, heartofglass_c.mp3)
+Audio file(14, heartofglass_b.mp3)
+Audio file(15, heartofglass_a.mp3)
+Audio file(16, heartbreaker_d.mp3)
+Audio file(17, heartbreaker_c.mp3)
+Audio file(18, heartbreaker_b.mp3)
+Audio file(19, heartbreaker_a.mp3)
+Audio file(20, happyday_d.mp3)
+Audio file(21, happyday_c.mp3)
+Audio file(22, happyday_b.mp3)
+Audio file(23, happyday_a.mp3)
+Successfully added noise source,16
+Successfully added noise source,17
+Successfully added noise source,18
+Successfully added noise source,19
+Successfully added noise source,20
+Successfully added noise source,21
+Successfully added noise source,22
+Successfully added noise source,23
+Successfully added noise source,24
+Successfully added noise source,25
+Successfully added noise source,26
+Successfully added noise source,27
+Successfully added noise source,28
+Successfully added noise source,29
+Successfully added noise source,30
+Successfully added noise source,31
+Successfully added noise source,32
+Successfully added noise source,33
+Successfully added noise source,34
+Successfully added noise source,35
+Successfully added noise source,36
+Successfully added noise source,37
+Successfully added noise source,38
+Successfully added noise source,39
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,12.22.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Info: IDirect3D9::GetAdapterModeCount() Count. ,40
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,320
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,200
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,320
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,240
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,400
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,300
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,512
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,384
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,400
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,70
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,73
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,640
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,480
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,656
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,496
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,72
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,800
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1152
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,864
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,600
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,720
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,800
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,800
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,960
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1280
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1024
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1360
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1366
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,768
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1400
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1400
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1440
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1600
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1600
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,900
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,59
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,60
+Info: IDirect3D9::EnumAdapterModes() Testing Width.       ,1680
+Info: IDirect3D9::EnumAdapterModes() Testing Height.      ,1050
+Info: IDirect3D9::EnumAdapterModes() Testing RefreshRate. ,75
+Warning: Display mode not supported.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+Reloading sprite and fonts
+Exited main loop
+Cleanup
+ 
+***************************************
+Program Start
+Date,12.22.2011
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+FPS,271
+FPS,273
+FPS,273
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,02.17.2012
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+FPS,255
+FPS,256
+FPS,258
+FPS,248
+FPS,259
+FPS,255
+Audio is valid!,assets\data\sound2.dat
+table size,24
+Audio file(0, hotblooded_d.mp3)
+Audio file(1, hotblooded_c.mp3)
+Audio file(2, hotblooded_b.mp3)
+Audio file(3, hotblooded_a.mp3)
+Audio file(4, hipsdontlie_d.mp3)
+Audio file(5, hipsdontlie_c.mp3)
+Audio file(6, hipsdontlie_b.mp3)
+Audio file(7, hipsdontlie_a.mp3)
+Audio file(8, highenough_d.mp3)
+Audio file(9, highenough_c.mp3)
+Audio file(10, highenough_b.mp3)
+Audio file(11, highenough_a.mp3)
+Audio file(12, heartofglass_d.mp3)
+Audio file(13, heartofglass_c.mp3)
+Audio file(14, heartofglass_b.mp3)
+Audio file(15, heartofglass_a.mp3)
+Audio file(16, heartbreaker_d.mp3)
+Audio file(17, heartbreaker_c.mp3)
+Audio file(18, heartbreaker_b.mp3)
+Audio file(19, heartbreaker_a.mp3)
+Audio file(20, happyday_d.mp3)
+Audio file(21, happyday_c.mp3)
+Audio file(22, happyday_b.mp3)
+Audio file(23, happyday_a.mp3)
+Successfully added noise source,16
+Successfully added noise source,17
+Successfully added noise source,18
+Successfully added noise source,19
+Successfully added noise source,20
+Successfully added noise source,21
+Successfully added noise source,22
+Successfully added noise source,23
+Successfully added noise source,24
+Successfully added noise source,25
+Successfully added noise source,26
+Successfully added noise source,27
+Successfully added noise source,28
+Successfully added noise source,29
+Successfully added noise source,30
+Successfully added noise source,31
+Successfully added noise source,32
+Successfully added noise source,33
+Successfully added noise source,34
+Successfully added noise source,35
+Successfully added noise source,36
+Successfully added noise source,37
+Successfully added noise source,38
+Successfully added noise source,39
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************
+ 
+***************************************
+Program Start
+Date,04.11.2014
+***************************************
+Reading config file
+Config line,ScreenLeft=0
+Config line,ScreenTop=0
+Config line,ScreenWidth=1024
+Config line,ScreenHeight=768
+Config line,FullScreen=0
+Config line,DisplayDebugInfo=1
+Config line,LogDebugInfo=1
+Config line,PlaySounds=0
+Config line,PlayMusic=0
+Config line,FrameworkAssetFile=assets//data//framework.dat
+Config line,GamePlayAssetFile=assets//data//sprites.dat
+Config line,SoundAssetFile	=assets//data//sounds.dat
+Config line,CreditsFile=assets//data//credits.dat
+Config line,TilesFile=assets//data//tiles.dat
+Config line,ObjectsFile=assets//data//objects.dat
+Config line,EffectsFile=assets//data//effects.dat
+Config line,EffectsFileI=assets//data//effects_i.dat
+Config line,RootPath=assets//data//
+Config line,ProgramName=TwistedTunes
+Config line,ProgramVersion=v004
+***************************************
+Configuration File Data (key = value)
+***************************************
+No match for config file key,SoundAssetFile	
+Program Name,TwistedTunes
+Version,v004
+Window Loaded and Displayed!
+Successful: Created IDirect3D9 Interface.
+Warning: CGraphics::IsDisplayModeSupported() Should only be called for a full screen application.
+Successful: Created IDirect3DDevice9 Device.
+Reloading sprite and fonts
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//framework.dat (frame graphics) was loaded successfully!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Texture loaded correctly!
+Exit loading of files
+assets//data//sprites.dat (game play graphics) was loaded successfully!
+Entering Main Control Loop
+Audio is valid!,assets\data\sound1.dat
+table size,16
+Audio file(0, mansworld_d.mp3)
+Audio file(1, mansworld_c.mp3)
+Audio file(2, mansworld_b.mp3)
+Audio file(3, mansworld_a.mp3)
+Audio file(4, jailhouserock_d.mp3)
+Audio file(5, jailhouserock_c.mp3)
+Audio file(6, jailhouserock_b.mp3)
+Audio file(7, jailhouserock_a.mp3)
+Audio file(8, immigrantsong_d.mp3)
+Audio file(9, immigrantsong_c.mp3)
+Audio file(10, immigrantsong_b.mp3)
+Audio file(11, immigrantsong_a.mp3)
+Audio file(12, hurricane_d.mp3)
+Audio file(13, hurricane_c.mp3)
+Audio file(14, hurricane_b.mp3)
+Audio file(15, hurricane_a.mp3)
+Successfully added noise source,0
+Successfully added noise source,1
+Successfully added noise source,2
+Successfully added noise source,3
+Successfully added noise source,4
+Successfully added noise source,5
+Successfully added noise source,6
+Successfully added noise source,7
+Successfully added noise source,8
+Successfully added noise source,9
+Successfully added noise source,10
+Successfully added noise source,11
+Successfully added noise source,12
+Successfully added noise source,13
+Successfully added noise source,14
+Successfully added noise source,15
+FPS,287
+FPS,283
+FPS,283
+FPS,287
+FPS,284
+Exited main loop
+Cleanup
+cleanup 1
+cleanup 2
+DirectX Cleaned Up
+Shutdown complete!
+***************************************
+ Program Terminated Normally
+***************************************

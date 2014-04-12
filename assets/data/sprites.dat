@@ -1,0 +1,30 @@
+//textures 0-4: http://www.flickr.com/photos/bittbox/sets/72157618341823845/detail/
+texture, 0, texture1.png, level1
+texture, 1, texture2.png, level2
+texture, 2, texture3.png, level3
+texture, 3, texture4.png, level4
+texture, 4, texture5.png, level5
+texture, 5, redmask.png, mask
+texture, 6, sprites.png, sprites
+//texture, 7, texture3.png, splash
+
+//sprite, sprite ID, file ID, left, top, width, height, scale, angle, alpha, max frames, starting frames, time, description
+
+sprite, 101, 0, 0, 0, 1024, 768, 1, 0, 255, 0, 1, 0, level1 background
+sprite, 102, 1, 0, 0, 1024, 768, 1, 0, 255, 0, 1, 0, level2 background
+sprite, 103, 2, 0, 0, 1024, 768, 1, 0, 255, 0, 1, 0, level3 background
+sprite, 104, 3, 0, 0, 1024, 768, 1, 0, 255, 0, 1, 0, level4 background
+sprite, 105, 4, 0, 0, 1024, 768, 1, 0, 255, 0, 1, 0, level5 background
+sprite, 111, 5, 0, 0, 1024, 800, 1, 0, 255, 0, 1, 0, red mask
+
+sprite, 106, 6, 0, 0, 32, 32, 1, 0, 255, 6, 1, 0.3, block1
+sprite, 107, 6, 0, 32, 32, 32, 1, 0, 255, 6, 2, 0.2, block2
+sprite, 108, 6, 0, 64, 32, 32, 1, 0, 255, 6, 3, 0.4, block3
+sprite, 109, 6, 0, 96, 32, 32, 1, 0, 255, 6, 4, 0.5, block4
+sprite, 110, 6, 0, 128, 32, 32, 1, 0, 255, 6, 5, 0.6, block5
+
+sprite, 120, 6, 0, 299, 704, 544, 1, 0, 255, 0, 1, 0, borderblocks
+sprite, 121, 6, 0, 224, 192, 64, 1, 0, 255, 0, 1, 0, assembly area
+
+//sprite, 150, 7, 0, 0, 1024, 768 1, 0, 255, 0, 1, 0, intro
+
